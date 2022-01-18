@@ -1,0 +1,18 @@
+{
+  "name": "chat_app_33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "http://localhost:3000/"
+  },
+  "author": "agatsya aghara",
+  "license": "ISC"
+}
